@@ -1,0 +1,2 @@
+# WGC_CMM_NEWBOAARD
+通讯管理机
